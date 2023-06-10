@@ -1,0 +1,36 @@
+2023-06-09 08:51:58 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 08:51:58 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 08:56:54 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 08:56:54 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 08:57:25 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 08:57:25 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:30 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:31 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:31 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:31 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:31 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:31 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:31 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:32 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:32 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:32 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:02:32 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:05:55 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:05:55 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:12:19 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-09 09:12:19 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:14:09 | WARNING | log_response | django.request | Unprocessable Entity: /test
+2023-06-10 05:14:09 | WARNING | log_response | django.request | Not Found: /favicon.ico
+2023-06-10 05:14:12 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:14:13 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:14:14 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:17 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:17 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:17 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:17 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:17 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:17 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:18 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:18 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:18 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}
+2023-06-10 05:29:18 | INFO | test | django.request | {'message': 'user visits index()', 'ip': '123.234.234.12'}

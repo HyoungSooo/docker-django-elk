@@ -1,0 +1,18 @@
+## Filebeat configuration
+## https://github.com/elastic/beats/blob/7.17/deploy/docker/filebeat.docker.yml
+#
+
+name: filebeat
+
+filebeat.inputs:
+- type : log
+  enabled: true
+  paths:
+    - /usr/share/web/logs/*.log
+
+output.logstash:
+  hosts: ["logstash:5044"]
+
+setup.kibana:
+  hosts: ["kibana:5601"]
+
