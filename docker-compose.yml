@@ -124,10 +124,25 @@ services:
     depends_on:
       - elasticsearch
 
+  jupyterlab:
+    image: andreper/jupyterlab:3.0.0-spark-3.0.0
+    container_name: jupyterlab
+    ports:
+      - 8888:8888
+      - 4040:4040
+    volumes:
+      - spark_volume:/opt/workspace
+    networks:
+      - elk
+
 networks:
   elk:
     driver: bridge
+  
 
 volumes:
   elasticsearch:
   logs_volume:
+  spark_volume:
+    name: "spark"
+    driver: local
